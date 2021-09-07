@@ -1,3 +1,4 @@
+#get latitude, longtidtude from location name
 from geopy.exc import GeocoderTimedOut
 from geopy.geocoders import Nominatim
 import pandas as pd 
